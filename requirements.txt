@@ -1,0 +1,6 @@
+pandas
+polygon-api-client
+SQLAlchemy
+python-dotenv
+requests
+psycopg2
